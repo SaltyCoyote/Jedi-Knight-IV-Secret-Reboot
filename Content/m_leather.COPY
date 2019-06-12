@@ -1,0 +1,623 @@
+Begin Object Class=/Script/Engine.Material Name="m_leather"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_78"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_71"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_6"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_2"
+      MaterialExpressionEditorX=-1200
+      MaterialExpressionEditorY=-1200
+      MaterialExpressionGuid=B7D3E2A84ADCEC78A2A894A1C0104BCA
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_3"
+      DefaultValue=(R=0.040000,G=0.020599,B=0.013000,A=0.000000)
+      ParameterName="CouchColor"
+      ExpressionGUID=F8B4DB474C8ABC2C15336D860805D2D3
+      MaterialExpressionEditorX=-896
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=8C4649CF4007A3A52FF1CAA0AF1F0435
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_78"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_71"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/misc/t_leather_01/t_leather_01_d.t_leather_01_d"'
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=896
+      MaterialExpressionGuid=21F4CF6940AA02F277CF9A8E0650A78D
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_7"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_31"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/misc/t_leather_01/t_leather_01_n.t_leather_01_n"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=400
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=2F0A4BCB47E1ED5F00AF1CA4F8E73AB4
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_6"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_30"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/misc/t_leather_01/t_leather_01_n.t_leather_01_n"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=400
+      MaterialExpressionEditorY=864
+      MaterialExpressionGuid=C89BAB90458BD1B3CAD15DBC36F1553F
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_21"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_38"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/common/t_roughness_01_m.t_roughness_01_m"'
+      MaterialExpressionEditorX=-1680
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=DEB90F4A44AE14172BC171B6796263AB
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_10"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/misc/t_leather_01/t_leather_01_d.t_leather_01_d"'
+      MaterialExpressionEditorX=-896
+      MaterialExpressionEditorY=-352
+      MaterialExpressionGuid=4C3DE06C4CFCD58E7BCBE389A00C898A
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_17"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_24"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/common/t_roughness_01_m.t_roughness_01_m"'
+      MaterialExpressionEditorX=-2128
+      MaterialExpressionEditorY=-1104
+      MaterialExpressionGuid=725C07B140BAFABFF108F99AEC71AB3A
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_16"
+      Coordinates=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_23"')
+      Texture=Texture2D'"/Game/NecrosUtilityMatPack/textures/common/t_roughness_01_m.t_roughness_01_m"'
+      MaterialExpressionEditorX=-2128
+      MaterialExpressionEditorY=-1312
+      MaterialExpressionGuid=8991142C46E4388355928D8E50451C99
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_8"
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=1072
+      MaterialExpressionGuid=F91B4541480A3E5DA98E6CB77D0F7E6B
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_7"
+      UTiling=8.000000
+      VTiling=8.000000
+      MaterialExpressionEditorX=32
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=29E799AC4121DC144D73BD9A5A1F2F87
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_6"
+      UTiling=8.000000
+      VTiling=8.000000
+      MaterialExpressionEditorX=-1184
+      MaterialExpressionEditorY=-384
+      MaterialExpressionGuid=D2FA318242C54B8BAFD9A1B2A46EAAEA
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_31"
+      UTiling=8.000000
+      VTiling=8.000000
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=5D9D4D954A3C5BD3AA6C4BAEF428C14D
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_20"
+      UTiling=0.500000
+      VTiling=0.500000
+      MaterialExpressionEditorX=-2048
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=8328EF4A4C58C42E6450608FC7130FBC
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_16"
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=-1104
+      MaterialExpressionGuid=172563B14E650172E99D149B42612601
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_15"
+      MaterialExpressionEditorX=-2528
+      MaterialExpressionEditorY=-1312
+      MaterialExpressionGuid=2398C923468B1D523891DE9C5B607165
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_25"
+      DefaultValue=1.000000
+      ParameterName="WearScale"
+      ExpressionGUID=E857AD36479F5AB4A8CB6FABDB9A0B89
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=-976
+      MaterialExpressionGuid=6AA1BAC541194D361141EFBC8DBD0183
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_24"
+      DefaultValue=1.000000
+      SliderMax=5.000000
+      ParameterName="LeatherUVScale"
+      ExpressionGUID=9C9FE015414A72588BB6F18079DE1D9F
+      MaterialExpressionEditorY=944
+      MaterialExpressionGuid=850D996446B546CEC37E1C805B611839
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_22"
+      DefaultValue=1.000000
+      SliderMax=10.000000
+      ParameterName="UVMacroScale"
+      ExpressionGUID=490642694CD769BADF9F08B44187E151
+      MaterialExpressionEditorX=16
+      MaterialExpressionEditorY=1152
+      MaterialExpressionGuid=246FA46D49ECB3979A181DB56CB9088F
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_21"
+      DefaultValue=1.000000
+      SliderMax=5.000000
+      ParameterName="LeatherUVScale"
+      ExpressionGUID=1191E7E945693FEDFCC5CA8721FAD42B
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=-288
+      MaterialExpressionGuid=4FE509224F8A3BBD8B08E8A8A4A653F1
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_18"
+      SliderMin=-1.000000
+      SliderMax=1.500000
+      ParameterName="WearAmt"
+      ExpressionGUID=20E4395F42898CF01A545FA162D6E0C5
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=-528
+      MaterialExpressionGuid=57A246C540930ADA99AA2EBC6553E970
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_11"
+      DefaultValue=1.000000
+      SliderMin=0.050000
+      SliderMax=10.000000
+      ParameterName="LeatherUVScale"
+      ExpressionGUID=57F6B4E047ACEB7E8DA04489B975DC29
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=864
+      MaterialExpressionGuid=CC0DBFE24F778562F9C47786C55CCB85
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_2"
+      Input=(Expression=MaterialExpressionMaterialFunctionCall'"m_leather:MaterialExpressionMaterialFunctionCall_14"')
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=736
+      MaterialExpressionGuid=61F9CDAF458279CA1EDEB1BF39FD25A5
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_71"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_31"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_11"')
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=EE996A384CC07C6237E5959D7BBF5794
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionVectorParameter'"m_leather:MaterialExpressionVectorParameter_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=-448
+      MaterialExpressionGuid=1C169511471CD1D2735D1CAFAC2E71B2
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_39"
+      A=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_5"')
+      B=(Expression=MaterialExpressionClamp'"m_leather:MaterialExpressionClamp_2"')
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=-304
+      MaterialExpressionGuid=DDF7F84A43E427728D401181B9FFD52A
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_38"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_20"')
+      MaterialExpressionEditorX=-1872
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=B6B3F01C46F8F544F14CD6B8B024CFBC
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_35"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_15"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_25"')
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=-1232
+      MaterialExpressionGuid=96D63A3E43D0C4EA3674EB822647AB09
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_34"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_16"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_25"')
+      MaterialExpressionEditorX=-2432
+      MaterialExpressionEditorY=-1088
+      MaterialExpressionGuid=4BF9CCAD4721F41A2E40D5A6D943DE44
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_31"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_8"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_22"')
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=1248
+      MaterialExpressionGuid=CD0F1701404CBC142933158D712FE91E
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_30"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_7"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_24"')
+      MaterialExpressionEditorX=192
+      MaterialExpressionEditorY=896
+      MaterialExpressionGuid=1211AA6C47AC143E1CC0C1B0A963BD6F
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27"
+      A=(Expression=MaterialExpressionAdd'"m_leather:MaterialExpressionAdd_6"')
+      B=(Expression=MaterialExpressionAdd'"m_leather:MaterialExpressionAdd_7"')
+      MaterialExpressionEditorX=-1760
+      MaterialExpressionEditorY=-1168
+      MaterialExpressionGuid=3A8F22D347FB8E1183AF26A2D8DE3BD1
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_24"
+      A=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_34"')
+      ConstB=0.053410
+      MaterialExpressionEditorX=-2336
+      MaterialExpressionEditorY=-1104
+      MaterialExpressionGuid=11ED6D8B475AE7FA016684A120C86DDB
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_23"
+      A=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_35"')
+      ConstB=0.213400
+      MaterialExpressionEditorX=-2336
+      MaterialExpressionEditorY=-1312
+      MaterialExpressionGuid=0A083707460B8A5E7E68768215376872
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionTextureCoordinate'"m_leather:MaterialExpressionTextureCoordinate_6"')
+      B=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_21"')
+      MaterialExpressionEditorX=-1040
+      MaterialExpressionEditorY=-352
+      MaterialExpressionGuid=93EE563749AC99B6F5BF8FA9175BA2C4
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.BlendAngleCorrectedNormals"'
+      FunctionInputs(0)=(ExpressionInputId=471965E548C55D27E606D3832C490AD3,Input=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_6"',InputName="BaseNormal",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(1)=(ExpressionInputId=7E2E487F49DE5A67E3A1EFA3FD83D041,Input=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_7"',InputName="AdditionalNormal",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionOutputs(0)=(ExpressionOutputId=E2F3EA0E41E2637BBAA2A4A0FEF38E6A,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=640
+      MaterialExpressionEditorY=832
+      MaterialExpressionGuid=5418D9EC47B5D9FF2F84549370ED0AD0
+      Material=Material'"m_leather"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_14"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"'
+      FunctionInputs(0)=(ExpressionInputId=88817477432D9FAD10A549A321ACA1A3,Input=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_78"',InputName="Base",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(1)=(ExpressionInputId=199F573E4F017F639BE3529FE8C8D580,Input=(Expression=MaterialExpressionLinearInterpolate'"m_leather:MaterialExpressionLinearInterpolate_4"',InputName="Blend"))
+      FunctionOutputs(0)=(ExpressionOutputId=C17FADFB4135A52E64E751901D7BE521,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=736
+      MaterialExpressionGuid=A2BE21854DEF38DC3C376C88410633CD
+      Material=Material'"m_leather"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_13"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"'
+      FunctionInputs(0)=(ExpressionInputId=88817477432D9FAD10A549A321ACA1A3,Input=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_39"',InputName="Base"))
+      FunctionInputs(1)=(ExpressionInputId=199F573E4F017F639BE3529FE8C8D580,Input=(Expression=MaterialExpressionLinearInterpolate'"m_leather:MaterialExpressionLinearInterpolate_4"',InputName="Blend"))
+      FunctionOutputs(0)=(ExpressionOutputId=C17FADFB4135A52E64E751901D7BE521,Output=(OutputName="Result"))
+      MaterialExpressionEditorY=-416
+      MaterialExpressionGuid=ABE41DF246F8AB31EAEC8EB8E3CC8593
+      Material=Material'"m_leather"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_7"
+      Alpha=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_21"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstA=1.000000
+      ConstB=-1.000000
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=86AC1069426E5F1E4C3D73944B2F6846
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_5"
+      A=(Expression=MaterialExpressionConstant'"m_leather:MaterialExpressionConstant_2"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"m_leather:MaterialExpressionLinearInterpolate_3"')
+      Alpha=(Expression=MaterialExpressionVertexColor'"m_leather:MaterialExpressionVertexColor_2"',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-944
+      MaterialExpressionEditorY=-1280
+      MaterialExpressionGuid=1729B8BA47460F4C479F1C9D28EF1151
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4"
+      A=(Expression=MaterialExpressionConstant3Vector'"m_leather:MaterialExpressionConstant3Vector_4"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"m_leather:MaterialExpressionLinearInterpolate_5"')
+      Alpha=(Expression=MaterialExpressionScalarParameter'"m_leather:MaterialExpressionScalarParameter_18"')
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=-672
+      MaterialExpressionGuid=77F2F78C4957CA49A20F52A3C8F47FB2
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      Alpha=(Expression=MaterialExpressionMultiply'"m_leather:MaterialExpressionMultiply_27"')
+      MaterialExpressionEditorX=-1600
+      MaterialExpressionEditorY=-1152
+      MaterialExpressionGuid=7499681C44B908B78AB442B185E1EC4F
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_4"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=-864
+      MaterialExpressionGuid=DDC104224D7877360EC2BF8467A0613A
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      R=1.000000
+      MaterialExpressionEditorX=-1040
+      MaterialExpressionEditorY=-1424
+      MaterialExpressionGuid=750D5B6A4DE258F94E8CB58EB492E54C
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_9"
+      SizeX=1184
+      SizeY=384
+      Text="Micro Texture Variation"
+      MaterialExpressionEditorX=-2112
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=8CE24A0043718958C983B492467BB3EB
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_8"
+      SizeX=496
+      SizeY=480
+      Text="VertexColor alpha controls grime layer"
+      MaterialExpressionEditorX=-1216
+      MaterialExpressionEditorY=-1472
+      MaterialExpressionGuid=22683D8A4BEFC54A629A43A1D1E979B2
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=1184
+      SizeY=752
+      Text="Grime Layer"
+      MaterialExpressionEditorX=-2576
+      MaterialExpressionEditorY=-1376
+      MaterialExpressionGuid=FD919B2141EDA9D01478B39307498322
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_11"
+      SizeX=1168
+      SizeY=720
+      Text="Roughness"
+      MaterialExpressionEditorX=-1392
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=03CA76614BD2239A116D68A00B197B44
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=962
+      SizeY=646
+      Text="Normals"
+      MaterialExpressionEditorX=-50
+      MaterialExpressionEditorY=734
+      MaterialExpressionGuid=F5A0C94444BB797581DE0D9412ACB88A
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1459
+      SizeY=771
+      Text="Diffuse"
+      MaterialExpressionEditorX=-1282
+      MaterialExpressionEditorY=-914
+      MaterialExpressionGuid=52E3088D4E3BD97A39F31EABDEC931D4
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionLinearInterpolate'"m_leather:MaterialExpressionLinearInterpolate_7"')
+      MinDefault=0.500000
+      MaterialExpressionEditorX=-1248
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=FF81A22E4AFF9CBCB42694B5CF981E37
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_7"
+      A=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_17"',OutputIndex=2,Mask=1,MaskG=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1936
+      MaterialExpressionEditorY=-1088
+      MaterialExpressionGuid=2BE260C24CD2E2F9788E73B8292815DE
+      Material=Material'"m_leather"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6"
+      A=(Expression=MaterialExpressionTextureSample'"m_leather:MaterialExpressionTextureSample_16"',OutputIndex=2,Mask=1,MaskG=1)
+      ConstB=0.500000
+      MaterialExpressionEditorX=-1936
+      MaterialExpressionEditorY=-1264
+      MaterialExpressionGuid=4CF2F5BC4FB43EFA3BD88799EE659578
+      Material=Material'"m_leather"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_13"')
+   Roughness=(Expression=MaterialExpressionOneMinus'"MaterialExpressionOneMinus_2"')
+   Normal=(Expression=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"')
+   bUsedWithStaticLighting=True
+   EditorX=928
+   EditorY=-160
+   Expressions(0)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_13"'
+   Expressions(1)=MaterialExpressionOneMinus'"MaterialExpressionOneMinus_2"'
+   Expressions(2)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"'
+   Expressions(3)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_3"'
+   Expressions(4)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_6"'
+   Expressions(5)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_78"'
+   Expressions(6)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_11"'
+   Expressions(7)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_31"'
+   Expressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_71"'
+   Expressions(9)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_21"'
+   Expressions(10)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_6"'
+   Expressions(11)=MaterialExpressionMultiply'"MaterialExpressionMultiply_10"'
+   Expressions(12)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(13)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   Expressions(14)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_24"'
+   Expressions(15)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_7"'
+   Expressions(16)=MaterialExpressionMultiply'"MaterialExpressionMultiply_30"'
+   Expressions(17)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_7"'
+   Expressions(18)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_8"'
+   Expressions(19)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_16"'
+   Expressions(20)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_15"'
+   Expressions(21)=MaterialExpressionMultiply'"MaterialExpressionMultiply_23"'
+   Expressions(22)=MaterialExpressionAdd'"MaterialExpressionAdd_6"'
+   Expressions(23)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_17"'
+   Expressions(24)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_16"'
+   Expressions(25)=MaterialExpressionMultiply'"MaterialExpressionMultiply_24"'
+   Expressions(26)=MaterialExpressionAdd'"MaterialExpressionAdd_7"'
+   Expressions(27)=MaterialExpressionMultiply'"MaterialExpressionMultiply_27"'
+   Expressions(28)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_3"'
+   Expressions(29)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_4"'
+   Expressions(30)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_4"'
+   Expressions(31)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_18"'
+   Expressions(32)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_14"'
+   Expressions(33)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_22"'
+   Expressions(34)=MaterialExpressionMultiply'"MaterialExpressionMultiply_31"'
+   Expressions(35)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_25"'
+   Expressions(36)=MaterialExpressionMultiply'"MaterialExpressionMultiply_34"'
+   Expressions(37)=MaterialExpressionMultiply'"MaterialExpressionMultiply_35"'
+   Expressions(38)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_21"'
+   Expressions(39)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_20"'
+   Expressions(40)=MaterialExpressionMultiply'"MaterialExpressionMultiply_38"'
+   Expressions(41)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_7"'
+   Expressions(42)=MaterialExpressionClamp'"MaterialExpressionClamp_2"'
+   Expressions(43)=MaterialExpressionMultiply'"MaterialExpressionMultiply_39"'
+   Expressions(44)=MaterialExpressionVertexColor'"MaterialExpressionVertexColor_2"'
+   Expressions(45)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_5"'
+   Expressions(46)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_11"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_4"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_9"'
+   EditorComments(3)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   EditorComments(4)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   EditorComments(5)=MaterialExpressionComment'"MaterialExpressionComment_8"'
+   MaterialFunctionInfos(0)=(StateId=12B6F73F4D5D4FF9D2FBF18B43945D5B,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"')
+   MaterialFunctionInfos(1)=(StateId=F5C2D4774BA63455E32B4B960D7674B6,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.BlendAngleCorrectedNormals"')
+   MaterialFunctionInfos(2)=(StateId=12B6F73F4D5D4FF9D2FBF18B43945D5B,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"')
+   bCanMaskedBeAssumedOpaque=True
+   StateId=5429BDB84C694F87CA8A16B7146B8827
+   ReferencedTextureGuids(0)=9414099041FFF34439DF77A94B3018A0
+   ReferencedTextureGuids(1)=F8C48D71453CA84513172AAFCEDA97C9
+   ReferencedTextureGuids(2)=EDB014DF46F7CF34902CE09723CC8A90
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_1"'
+   LightingGuid=A0DD90534ADBB4781567E2B6D4A5E326
+End Object
